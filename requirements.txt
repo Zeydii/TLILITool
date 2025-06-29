@@ -2,3 +2,4 @@ python-nmap
 colorama
 sublist3r
 termcolor
+pysmb
