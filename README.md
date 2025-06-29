@@ -32,7 +32,7 @@ git clone https://github.com/Zeydii/TLILITool.git
 cd TLILITool
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 ---
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ```bash
 sudo venv/bin/python main.py
-Follow the interactive prompts to enter the target IP or domain and run the different scanning modules.
+Follow the interactive prompts to enter the target IP or domain and run the different scanning modules. ```
 
 ## ⚡ Disclaimer
 This tool is intended for educational and authorized testing purposes only. Unauthorized use against targets without permission is strictly prohibited.
